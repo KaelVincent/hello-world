@@ -3,4 +3,3 @@ Git i free software.
 Git is a destributed  version control system.
 Git has a mutable index called stage.
 Git committion tests
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCpUpKxwA7u+j5hQm1v+xtZqiG9ygfRfG/t7ZsaMp7FwCwDxeWM0YtX42tz5q/MIaB7CHIuATuiRkT0P/tJRa+RvUEMfENjfEZp69lFvV1ZW2dHyLVXhHllLAWCsQLnjwweteeR4mEkWV3sRJnSyGOuzMqnIEomPay+E7jDC6CNWSEaIBIh1pLXLS3VLxY0yQI/91zd2l+jxSSMa3QATqlPG1VLptR96oLZ4PTYnksUm7L/0SXeH7917Pvegc1/IUS1TBkShDa+vefkOwU8bOgQkQ5EGSsdO5jAN5u1BgV6iCK2HbWa8e7pTYAGWbuo9zIN0V+zfkQ7jUVTdnSGj+vD root@localhost.localdomain
